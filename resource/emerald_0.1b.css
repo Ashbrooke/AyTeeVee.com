@@ -2,54 +2,70 @@ a {
     color:              #6600FF;
     font-family:        Arial, Helvetica, sans-serif;
     font-size:          14px;
-    font-weight:        bold;
     text-decoration:    none;
     text-shadow:        1px 1px 2px #000000;
 }
 
+article {
+    background-color:   #A3A3C2;
+    border-color:       white;
+    border-style:       solid;
+    border-width:       2px;
+    float:              left;
+    height:             576px;
+    overflow-x:         hidden;
+    overflow-y:         scroll;
+    padding:            10px;
+    width:              676px;
+}
+
+aside {
+    background-color:   #666699;
+    float:              right;
+    height:             600px;
+    width:              260px;
+}
+
 body {
-    background-color:   #000000;
+    background-color:   #141414;
     font-family:        "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size:          12px
 }
 
 nav {
-    background-color:   green;
+    background-color:   #E0E0EB;
 }
 
 #banner {
-    background-color:   #6495ed;
+    background-color:   #1F1F2E;
+    color:              white;
     float:              left;
-    width:              80%;
+    height:             100px;
+    width:              900px;
 }
 
 #container {
-    background-color:   #ff0000;
-    width:              100%;
-}
-
-#content {
-    background-color:   #649564;
-    float:              left;
-    height:             500px;
-    width:              70%;
+    margin:             0 auto;
+    margin-top:         50px;
+    width:              960px;
 }
 
 #footer {
-    background-color:   #649595;
+    background-color:   #1F1F2E;
+    float:              left;
     text-align:         center;
+    width:              960px;
 }
 
-
-#sidebar {
-    background-color:   #6464ed;
+#login {
+    background-color:   #E0E0EB;
     float:              right;
-    height:             500px;
-    width:              30%;
 }
 
 #social {
-    background-color:   #64ed95;
+    background-color:   #1F1F2E;
+    color:              white;
     float:              left;
-    width:              20%;
+    height:             100px;
+    width:              60px;
 }
