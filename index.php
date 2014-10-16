@@ -8,7 +8,7 @@ Description:    ForeverAFK Website main page
 <!DOCTYPE html>
 <html>
 <head>
-    <title>AyTeeVee.com</title>
+    <title>ForeverAFK is AFK</title>
     <base href="http://www.foreverafk.net" target="_self">
     <link rel="stylesheet" type="text/css" href="\resource\emerald_0.1b.css">
     <script src="emerald_0.1b.js"></script>
@@ -37,8 +37,7 @@ Description:    ForeverAFK Website main page
             <a href="http://www.foreverafk.net">News</a> |
             <a href="videos">Videos</a> |
             <a href="http://www.twitch.foreverafk.net">Stream</a> |
-            <a href="store">Store</a> |
-            <a href="contact">Contact</a>
+            <a href="store">Store</a>
             <span id="login">
                 <a href="login">Login</a> | <a href="signUp">Sign Up</a>
             </span>
@@ -49,16 +48,18 @@ Description:    ForeverAFK Website main page
         </article>
         
         <aside>
-            <a class="twitter-timeline" href="https://twitter.com/ATVForeverAFK" data-widget-id="521472253620264960">Tweets by @ATVForeverAFK</a>
-            <script>
-            !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
-			if(!d.getElementById(id)){js=d.createElement(s);
-			js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
-			fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+            <a class="twitter-timeline" href="https://twitter.com/ATVForeverAFK/lists/foreverafk" data-widget-id="522804473379307520">Tweets from https://twitter.com/ATVForeverAFK/lists/foreverafk</a>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+                    if(!d.getElementById(id)){js=d.createElement(s);
+                    js.id=id;
+                    js.src=p+"://platform.twitter.com/widgets.js";
+                    fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+                </script>
             </script>
         </aside>
 
         <div id="footer">
+            <a href="about">About</a> | 
             <a href="contact">Contact</a>
         </div>
     </div>

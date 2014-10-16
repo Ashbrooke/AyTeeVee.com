@@ -1,7 +1,7 @@
 a {
     color:              #6600FF;
     font-family:        Arial, Helvetica, sans-serif;
-    font-size:          14px;
+    font-size:          18px;
 	font-weight:		bold;
     text-decoration:    none;
     text-shadow:        1px 1px 2px #000000;
@@ -9,11 +9,11 @@ a {
 
 article {
     background-color:   #A3A3C2;
-    border-color:       white;
+    border-color:       #E0E0EB;
     border-style:       solid;
     border-width:       2px;
     float:              left;
-    height:             576px;
+    height:             976px;
     overflow-x:         hidden;
     overflow-y:         scroll;
     padding:            10px;
@@ -23,7 +23,7 @@ article {
 aside {
     background-color:   #666699;
     float:              right;
-    height:             600px;
+    height:             1000px;
     width:              260px;
 }
 
@@ -56,6 +56,15 @@ nav {
     float:              left;
     text-align:         center;
     width:              960px;
+}
+
+#footer a {
+    color:              #FFFFFF;
+    font-family:        Arial, Helvetica, sans-serif;
+    font-size:          10px;
+	font-weight:		bold;
+    text-decoration:    none;
+    text-shadow:        1px 1px 2px #000000;
 }
 
 #login {
