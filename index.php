@@ -10,7 +10,7 @@ Description:    ForeverAFK Website main page
 <head>
     <title>AyTeeVee.com</title>
     <base href="http://www.foreverafk.net" target="_self">
-    <link rel="stylesheet" type="text/css" href="/resource/emerald_0.1b.css">
+    <link rel="stylesheet" type="text/css" href="\resource\emerald_0.1b.css">
     <script src="emerald_0.1b.js"></script>
     
     <meta name="author"         content="Alexander Eschbach">
@@ -26,7 +26,11 @@ Description:    ForeverAFK Website main page
         </div>
         
         <div id="social">
-            Social Linkz
+            <!-- Tumblr -->
+			<iframe class="btn" frameborder="0" border="0" scrolling="no" allowtransparency="true" height="25" width="18" src="http://platform.tumblr.com/v1/follow_button.html?button_type=3&tumblelog=atvforeverafk&color_scheme=dark"></iframe>
+			<!-- Twitter -->
+			<!-- YouTube -->
+			
         </div>
         
         <nav>
@@ -41,13 +45,16 @@ Description:    ForeverAFK Website main page
         </nav>
         
         <article>
-            We are ForeverAFK. We are AFK rn. uhm. this is awkward.
+            <script type='text/javascript' src='http://atvforeverafk.tumblr.com/js?num=10'>Failed to load feed :(</script>
         </article>
         
         <aside>
             <a class="twitter-timeline" href="https://twitter.com/ATVForeverAFK" data-widget-id="521472253620264960">Tweets by @ATVForeverAFK</a>
             <script>
-            !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+            !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+			if(!d.getElementById(id)){js=d.createElement(s);
+			js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+			fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
             </script>
         </aside>
 
