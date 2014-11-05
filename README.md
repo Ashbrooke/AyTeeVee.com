@@ -1,4 +1,4 @@
-AyTeeVee.com
+ForeverAFK.net
 ============
 
-AyTeeVee Website Development
+Making the website for ForeverAFK
