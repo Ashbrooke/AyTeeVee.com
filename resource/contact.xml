@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+	<person>
+		<name>Ash</name>
+		<description>Cool guy who makes videos and edits the website</description>
+		<email>ash@foreverafk.net</email>
+	</person>
+	<person>
+	<name>Erk</name>
+		<description>Street fighter champ that streams on twitch</description>
+		<email>erk@foreverafk.net</email>
+	</person>	
+</contacts>

@@ -48,7 +48,7 @@ Description:    ForeverAFK Website main page
         </article>
         
         <aside>
-            <a class="twitter-timeline" href="https://twitter.com/ATVForeverAFK/lists/foreverafk" data-widget-id="522804473379307520">Tweets from https://twitter.com/ATVForeverAFK/lists/foreverafk</a>
+            <a class="twitter-timeline" href="https://twitter.com/ATVForeverAFK/lists/foreverafk" data-widget-id="522804473379307520">-Loading twitter feed-</a>
                 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
                     if(!d.getElementById(id)){js=d.createElement(s);
                     js.id=id;
@@ -60,7 +60,7 @@ Description:    ForeverAFK Website main page
 
         <div id="footer">
             <a href="about">About</a> | 
-            <a href="contact">Contact</a>
+            <a href="javascript:showContacts();">Contact</a>
         </div>
     </div>
     
