@@ -11,7 +11,7 @@ Description:    ForeverAFK Website main page
     <title>ForeverAFK is AFK</title>
     <base href="http://www.foreverafk.net" target="_self">
     <link rel="stylesheet" type="text/css" href="\resource\emerald_0.1b.css">
-    <script src="emerald_0.1b.js"></script>
+    <script src="\resource\emerald_0.1b.js"></script>
     
     <meta name="author"         content="Alexander Eschbach">
     <meta name="keywords"       content="ForeverAFK,FAFK,Video Games,Let's Play,Videos">
@@ -43,7 +43,7 @@ Description:    ForeverAFK Website main page
             </span>
         </nav>
         
-        <article>
+        <article id="mainArticle">
             <script type='text/javascript' src='http://atvforeverafk.tumblr.com/js?num=10'>Failed to load feed :(</script>
         </article>
         

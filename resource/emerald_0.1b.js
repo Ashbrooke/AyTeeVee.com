@@ -1,3 +1,3 @@
 function showContacts(){
-	document.getElementById("article").innerHTML = "CONTACT";
+	document.getElementById("mainArticle").innerHTML = "CONTACT";
 }
