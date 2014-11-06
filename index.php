@@ -22,7 +22,7 @@ Description:    ForeverAFK Website main page
     <div id="container">
         
         <div id="banner">
-            ForeverAFK.net
+            <img src="\resource\banner.png">
         </div>
         
         <div id="social">
