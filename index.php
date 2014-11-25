@@ -18,7 +18,7 @@ Description:    ForeverAFK Website main page
     <meta name="description"    content="Games, streaming, and nerdy stuff!">
 </head>
 <body>
-    
+    <a href="top"></a>
     <div id="container">
         
         <div id="banner">
@@ -34,15 +34,16 @@ Description:    ForeverAFK Website main page
         </div>
         
         <nav>
-            <a href="http://www.foreverafk.net">News</a> |
+            <a href="javascript:showFeed();">Feed</a> |
             <a href="videos">Videos</a> |
-            <a href="http://www.twitch.foreverafk.net">Stream</a> |
-            <a href="store">Store</a>
+            <a href="http://www.twitch.foreverafk.net">Stream</a>
+			<!--
             <span id="login">
                 <a href="login">Login</a> | <a href="signUp">Sign Up</a>
             </span>
+			-->
         </nav>
-        
+       
         <article id="mainArticle">
             <script type='text/javascript' src='http://atvforeverafk.tumblr.com/js?num=10'>Failed to load feed :(</script>
         </article>
@@ -59,10 +60,10 @@ Description:    ForeverAFK Website main page
         </aside>
 
         <div id="footer">
-            <a href="about">About</a> | 
+            <a href="javascript:showAbout();">About</a> | 
             <a href="javascript:showContacts();">Contact</a>
         </div>
     </div>
-    
+    <a href="bottom"></a>
 </body>
 </html>
