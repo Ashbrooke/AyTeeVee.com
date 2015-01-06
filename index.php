@@ -35,7 +35,7 @@ Description:    ForeverAFK Website main page
         
         <nav>
             <a href="javascript:showFeed();">Feed</a> |
-            <a href="videos">Videos</a> |
+            <a href="https://www.youtube.com/user/ATVForeverAFK">Videos</a> |
             <a href="http://www.twitch.foreverafk.net">Stream</a>
 			<!--
             <span id="login">
