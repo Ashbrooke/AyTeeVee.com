@@ -5,7 +5,7 @@
     </head>
     <body>
         <?php
-            echo "This is a PHP script.";
+            echo $_SERVER['HTTP_USER_AGENT'];
         ?>
     </body>
 </html>
