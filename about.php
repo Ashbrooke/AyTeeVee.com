@@ -1,8 +1,8 @@
 <!-- 
 ****************************************************************************************
-File:           index.php
+File:           about.php
 Author:         Alexander Eschbach
-Description:    ForeverAFK Website main page
+Description:    ForeverAFK brief about
 ****************************************************************************************
 -->
 <!DOCTYPE html>
@@ -16,6 +16,12 @@ Description:    ForeverAFK Website main page
     <meta name="author"         content="Alexander Eschbach">
     <meta name="keywords"       content="ForeverAFK,FAFK,Video Games,Let's Play,Videos">
     <meta name="description"    content="Games, streaming, and nerdy stuff!">
+    
+    <style>
+        article {
+            width:936px;
+        }
+    </style>
 </head>
 <body>
     <a href="top"></a>
@@ -46,20 +52,11 @@ Description:    ForeverAFK Website main page
         </nav>
        
         <article id="mainArticle">
-            <script type='text/javascript' src='http://atvforeverafk.tumblr.com/js?num=10'>Failed to load feed :(</script>
+            <h1>About</h1>
+            Just who the heck do we think we are? ForeverAFK(FAFK) started as a cooperative project between Erk and Ash(me). We both share a passion for video games and FAFK is a way for us to centralize our creative ideas and video-game related projects. Right now Erk and I are focused on starting a Minecraft server, and making some YouTube stuff including LPs and random other videos. Erk actively streams on twitch.tv and I'm charged with maintaining the website. If you are reading this you are either legit curious about us for some reason or you are already a friend of ours <3. And we luff you 4evar. OK I'm kind of awkward when it comes to socialising so I'm gonna go bye!
+
         </article>
         
-        <aside>
-            <a class="twitter-timeline" href="https://twitter.com/ATVForeverAFK/lists/foreverafk" data-widget-id="522804473379307520">-Loading twitter feed-</a>
-                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
-                    if(!d.getElementById(id)){js=d.createElement(s);
-                    js.id=id;
-                    js.src=p+"://platform.twitter.com/widgets.js";
-                    fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-                </script>
-            </script>
-        </aside>
-
         <div id="footer">
             <a href="about.php">About</a> | 
             <a href="contact.php">Contact</a>

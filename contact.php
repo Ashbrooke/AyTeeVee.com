@@ -1,8 +1,8 @@
 <!-- 
 ****************************************************************************************
-File:           index.php
+File:           contact.php
 Author:         Alexander Eschbach
-Description:    ForeverAFK Website main page
+Description:    ForeverAFK contact
 ****************************************************************************************
 -->
 <!DOCTYPE html>
@@ -16,6 +16,13 @@ Description:    ForeverAFK Website main page
     <meta name="author"         content="Alexander Eschbach">
     <meta name="keywords"       content="ForeverAFK,FAFK,Video Games,Let's Play,Videos">
     <meta name="description"    content="Games, streaming, and nerdy stuff!">
+    
+    
+    <style>
+        article {
+            width:936px;
+        }
+    </style>
 </head>
 <body>
     <a href="top"></a>
@@ -44,22 +51,17 @@ Description:    ForeverAFK Website main page
             </span>
 			-->
         </nav>
-       
+
         <article id="mainArticle">
-            <script type='text/javascript' src='http://atvforeverafk.tumblr.com/js?num=10'>Failed to load feed :(</script>
+            <h1>Contact</h1>
+            <h2>General</h2>
+            contact@foreverafk.net
+            <h2>Ash</h2>
+            ash@foreverafk.net
+            <h2>Erk</h2>
+            erk@foreverafk.net
         </article>
         
-        <aside>
-            <a class="twitter-timeline" href="https://twitter.com/ATVForeverAFK/lists/foreverafk" data-widget-id="522804473379307520">-Loading twitter feed-</a>
-                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
-                    if(!d.getElementById(id)){js=d.createElement(s);
-                    js.id=id;
-                    js.src=p+"://platform.twitter.com/widgets.js";
-                    fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-                </script>
-            </script>
-        </aside>
-
         <div id="footer">
             <a href="about.php">About</a> | 
             <a href="contact.php">Contact</a>
