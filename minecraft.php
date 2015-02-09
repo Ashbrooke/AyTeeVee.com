@@ -53,7 +53,7 @@ Description:    ForeverAFK brief about
        
         <article id="mainArticle">
         
-            <img src="https://mc.beastnode.com/index.php?r=status/81687.png">Status Banner</img>
+            <img src="https://mc.beastnode.com/index.php?r=status/81687.png"></img>
             <h1>Click <a href="http://mc.foreverafk.net:8123/">here</a> to view the Dynmap.</h1></br>
             </br>
             <h1>Minecraft Server</h1>
