@@ -1,8 +1,8 @@
 <!-- 
 ****************************************************************************************
-File:           contact.php
+File:           minecraft.php
 Author:         Alexander Eschbach
-Description:    ForeverAFK contact
+Description:    ForeverAFK brief about
 ****************************************************************************************
 -->
 <!DOCTYPE html>
@@ -16,7 +16,6 @@ Description:    ForeverAFK contact
     <meta name="author"         content="Alexander Eschbach">
     <meta name="keywords"       content="ForeverAFK,FAFK,Video Games,Let's Play,Videos">
     <meta name="description"    content="Games, streaming, and nerdy stuff!">
-    
     
     <style>
         article {
@@ -51,15 +50,17 @@ Description:    ForeverAFK contact
             </span>
 			-->
         </nav>
-
+       
         <article id="mainArticle">
-            <h1>Contact</h1>
-            <h2>General</h2>
-            contact@foreverafk.net
-            <h2>Ash</h2>
-            ash@foreverafk.net
-            <h2>Erk</h2>
-            erk@foreverafk.net
+        
+            <img src="https://mc.beastnode.com/index.php?r=status/81687.png">Status Banner</img>
+            <h1>Click <a href="http://mc.foreverafk.net:8123/">here</a> to view the Dynmap.</h1></br>
+            </br>
+            <h1>Minecraft Server</h1>
+            To connect to our Minecraft server use the IP: mc.ForeverAFK.net</br>
+            </br>
+            This is a public server, so feel free to connect with your friends. The server hosts two worlds: Meilin and Sigby. Meilin is a completely public world, and with the exception of spawn there are no protections. Sigby has protected plots that can be purchased using in-game items or Loyalty Points. If you have any questions please ask a mod!
+            
         </article>
         
         <div id="footer">

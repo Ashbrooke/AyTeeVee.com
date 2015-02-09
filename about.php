@@ -43,7 +43,7 @@ Description:    ForeverAFK brief about
             <a href="http://www.foreverafk.net/index.php">Home</a> |
             <a href="https://www.youtube.com/user/ATVForeverAFK">Youtube</a> |
             <a href="http://www.twitch.foreverafk.net">Twitch</a> |
-            <a href="http://mc.foreverafk.net:8123/">Minecraft</a>
+            <a href="minecraft.php">Minecraft</a>
 			<!--
             <span id="login">
                 <a href="login">Login</a> | <a href="signUp">Sign Up</a>
