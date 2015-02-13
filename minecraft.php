@@ -60,6 +60,15 @@ Description:    ForeverAFK brief about
             To connect to our Minecraft server use the IP: mc.ForeverAFK.net</br>
             </br>
             This is a public server, so feel free to connect with your friends. The server hosts two worlds: Meilin and Sigby. Meilin is a completely public world, and with the exception of spawn there are no protections. Sigby has protected plots that can be purchased using in-game items or Loyalty Points. If you have any questions please ask a mod!
+            </br>
+            </br>
+            <h1>Mumble VOIP</h1>
+            We also host a Mumble chat server if you want to talk voice-to-voice. You can usually find Erk and Ash in there when they are on.
+            <ul>
+                <li>Address: 184.173.217.82</li>
+                <li>Port: 63612</li>
+            </ul>
+            You can download the Mumble client <a href="http://www.mumble.com/mumble-download.php" target="_blank" class="inarticle">here</a>.
             
         </article>
         
