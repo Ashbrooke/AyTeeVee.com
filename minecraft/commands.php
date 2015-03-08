@@ -83,7 +83,7 @@ Description:    ForeverAFK brief about
         </ol>
         
         <h2>Gendry:</h2>
-        After 2hr of logged time players will become Journeymen. This allows them to go to Sigby and become members of plots.
+        After 2hr of logged time players will become Gendry. This allows them to go to Sigby and become members of plots.
     
         <ol>
             <li>/region info</li>
@@ -95,7 +95,7 @@ Description:    ForeverAFK brief about
         </ol>
     
         <h2>Lord:</h2>
-        The highest public tier. Journeymen become Masters when they buy their own plots.
+        The highest public tier. Gendry become Lords when they buy their own plots.
 
         <ol>
             <li>/region addmember &lt;id&gt; &lt;members&gt;</li>

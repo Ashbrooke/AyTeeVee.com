@@ -54,12 +54,13 @@ Description:    ForeverAFK brief about
         <article id="mainArticle">
         
             <h1>You can connect to our Minecraft server using the ip: mc.ForeverAFK.net</h1>
-            <h1>Click <a href="http://mc.foreverafk.net:8123/">here</a> to view the live map.</h1></br>
+            <h1>Click <a href="http://mc.foreverafk.net:8123/">here</a> to view the live map.</h1>
+            <h1>A full commands list can be found <a href="/minecraft/commands.php">here</a>.</br>
             </br>
             <h1>Minecraft Server</h1>
             <h2>Server Information</h2>
             The ForeverAFK Minecraft server is a multiworld SMP server with available plot protection. There are two main worlds: Khutu and Sigby. Khutu is the world you will first spawn in. The largest majority of this world is free for everyone to build in. This leaves players builds vulnerable to thieves and griefers. Once a player has been on the server for 2 hours they gain access to Sigby. Unlike Khutu, players will not be able to build anywhere in Sigby unless they own a specific plot of land that is protected from other players.
-            <img src="\resource\WorldDiagram.png">
+            </br><img src="\resource\WorldDiagram.png"></br>
             The diagram above shows the basic architecture of the server. New players will be constrained to Khutu until they are promoted. At this point they will gain access to a build plot in Crafterville, and access the protected member world, Sigby. Meilin is an old free-for-all world that is being phased out by Khutu. Don't leave anything in Meilin as it will be deleted.
             </br>
             <h2>Server Rules</h2>
