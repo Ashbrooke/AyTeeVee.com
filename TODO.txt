@@ -2,3 +2,4 @@
 Future Plans:
 1. Javascript load content and navigation remains stationary
 2. Login/User account system
+3. Redo colors and website style

@@ -1,8 +1,8 @@
 <!-- 
 ****************************************************************************************
-File:           contact.php
+File:           dnd.php
 Author:         Alexander Eschbach
-Description:    ForeverAFK contact
+Description:    Embedded tumblr page for DND related material
 ****************************************************************************************
 -->
 <!DOCTYPE html>
@@ -16,7 +16,6 @@ Description:    ForeverAFK contact
     <meta name="author"         content="Alexander Eschbach">
     <meta name="keywords"       content="ForeverAFK,FAFK,Video Games,Let's Play,Videos">
     <meta name="description"    content="Games, streaming, and nerdy stuff!">
-    
     
     <style>
         article {
@@ -52,19 +51,17 @@ Description:    ForeverAFK contact
             </span>
 			-->
         </nav>
-
+       
+       
+        <div id="dndbanner">
+            You can watch our streams Sunday nights at 9pm EST on our <a href="http://www.twitch.foreverafk.net">twitch channel</a>, or view backlogged episodes on our <a href="https://www.youtube.com/user/ATVForeverAFK">YouTube page</a>.
+        </div>
+       
         <article id="mainArticle">
-            <h1>Contact</h1>
-            <h2>General</h2>
-            contact@foreverafk.net
-            <h2>Forever Fantasy Podcast</h2>
-            foreverfantasypodcast@foreverafk.net
-            <h2>Ash</h2>
-            ash@foreverafk.net
-            <h2>Erk</h2>
-            erk@foreverafk.net
+            <script type='text/javascript' src='http://foreverfantasypodcast.tumblr.com/js?num=10'>Failed to load feed :(</script>
         </article>
-        
+            
+        </article>
         <div id="footer">
             <a href="about.php">About</a> | 
             <a href="contact.php">Contact</a>
