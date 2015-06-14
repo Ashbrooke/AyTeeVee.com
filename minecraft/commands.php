@@ -64,7 +64,7 @@ Description:    ForeverAFK brief about
         
         
         
-        <h2>Peasant:</h2>
+        <h2>Aspirant:</h2>
         Default group. Players will only spend a short amount of time here.
 
         <ol>
@@ -83,8 +83,8 @@ Description:    ForeverAFK brief about
             <li>/worlds</li>
         </ol>
         
-        <h2>Gendry:</h2>
-        After 2hr of logged time players will become Gendry. This allows them to go to Sigby and become members of plots.
+        <h2>Survivalist:</h2>
+        After 2hr of logged time players will become Survivalist. This allows them to go to Sigby and become members of plots.
     
         <ol>
             <li>/region info</li>
@@ -95,8 +95,8 @@ Description:    ForeverAFK brief about
             <li>/plot [stuff]</li>
         </ol>
     
-        <h2>Lord:</h2>
-        The highest public tier. Gendry become Lords when they buy their own plots.
+        <h2>Crafter:</h2>
+        The highest public tier. Survivalists become Crafters when they buy their own plots.
 
         <ol>
             <li>/region addmember &lt;id&gt; &lt;members&gt;</li>

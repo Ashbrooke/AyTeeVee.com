@@ -60,9 +60,8 @@ Description:    ForeverAFK brief about
             </br>
             <h1>Minecraft Server</h1>
             <h2>Server Information</h2>
-            The ForeverAFK Minecraft server is a multiworld SMP server with available plot protection. There are two main worlds: Khutu and Sigby. Khutu is the world you will first spawn in. The largest majority of this world is free for everyone to build in. This leaves players builds vulnerable to thieves and griefers. Once a player has been on the server for 2 hours they gain access to Sigby. Unlike Khutu, players will not be able to build anywhere in Sigby unless they own a specific plot of land that is protected from other players.
-            </br><img src="\resource\WorldDiagram.png"></br>
-            The diagram above shows the basic architecture of the server. New players will be constrained to Khutu until they are promoted. At this point they will gain access to a build plot in Crafterville, and access the protected member world, Sigby. Meilin is an old free-for-all world that is being phased out by Khutu. Don't leave anything in Meilin as it will be deleted.
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ZNO1mptPrOU" frameborder="0" allowfullscreen></iframe>
+            </br>
             </br>
             <h2>Server Rules</h2>
             <ol>
@@ -77,20 +76,21 @@ Description:    ForeverAFK brief about
             <h2>Server Policy</h2>
             <h3>Ranks and Promotion</h3>
             <ol>
-                <li>[Peasant] - This is the default rank. Players may only access Khutu.</li>
-                <li>[Gendry] - After two hours playtime a Peasant is promoted to Gendry. They can now access Crafterville and claim plots there with protection, and build in Sigby if a Lord grants them permission on their property.</li>
-                <li>[Lord] - Lords are players who have purchased large plots in game with Loyalty Points. Lords may rent parts of their land to Gendry's for whatever price they see fit(with in-game items like diamonds, iron, gold, etc.). Lords are the keepers of the protected areas and handle disputes within their plots.</li>
+                <li>[ASP] - Aspirant - This is the default rank. Players may only access Khutu.</li>
+                <li>[SUR] - Survivalist - After two hours playtime an Aspirant is promoted to Survivalist. They can now access Crafterville and claim plots there with protection. They may build on someone else's plot in Sigby if the owner permits it.</li>
+                <li>[CRA] - Crafter - Crafters are players who have purchased large plots in game with Loyalty Points. Lords may rent parts of their land to Gendry's for whatever price they see fit(with in-game items like diamonds, iron, gold, etc.). Lords are the keepers of the protected areas and handle disputes within their plots.</li>
                 <li>(Various titles) - VIP - This is our VIP rank. We honor our best friends and special guests with this rank.</li>
-                <li>Mod - Moderator - Mods have taken on the responsibility of helping other players with any problems. They are giving up their game-time to help others, so please treat them respectfully.</li>
+                <li>[JOF] - Junior Officer - Junior Officers will be added in the near future</li>
+                <li>[Officer] - Senior Officer - Listen to these people or you will get rekt.
                 <li>YouTubers & Streamers - If you make Minecraft videos or stream online while on our server we would love to give you special recognition! Please send us a link to your pages either in game or email to ash@foreverafk.net and we can work out special ranks.</li>
             </ol>
             </br>
-            <h3>Multiworld Architecture</h3>
-            The server is running two overworlds: A protected world, Sigby, and a free-for-all world, Khutu. Khutu includes access to a Nether world, as well as an End world. Portals in Sigby have been disabled, and lead nowhere. </br>
-            From time to time the server will be migrating into a new Khutu world. During this time there will be 3 active overworlds. It is strongly suggested that you move all of your valuables into the new Khutu (or better yet to Sigby) so that you aren't missing anything when the migration is completed. This includes anything in the Nether and End worlds as well. As of March 2015 the newest active world is Khutu, and Meilin is the world being phased out.
-            <h3>Plot Ownership</h3>
-            Lords own all of land in Sigby. At their discretion they may sublet portions to Gendrys. Any person who has been inactive in their region is subject to eviction, with a warning period of no less than 2 weeks.</br>
-            Crafterville is a plotgrid world that is a great place to prove your building skills to landlords. Lords will look here to find builders worthy of building on plots in Sigby, so use them not only to store your items but to show off your building prowess! You are allowed two separate plots so use your space wisely.
+            <h3>Getting Help</h3>
+            If you have any problems on the server and no officers are available, please type:
+            </br>
+            /ticket &lt;message&gt;
+            </br>
+            This way an officer can take care of whatever issue your having when they log on. For more lengthy correspondence, please e-mail Ash: Ash@ForeverAFK.net
             </br>
             <h1>Mumble VOIP</h1>
             We also host a Mumble chat server if you want to talk voice-to-voice. You can usually find Erk and Ash in there when they are on. If we do happen to be streaming we ask that you configure push-to-talk or have a decent noise gate, otherwise we will mute you. 
