@@ -68,20 +68,16 @@ Description:    ForeverAFK brief about
                 <li>Client mods are allowed only if they do not alter gameplay and are in good spirit with the game. For example, maps and graphical mods are allowed, but flying and hack clients are not. When in doubt ask a Mod.</li>
                 <li>Any attempt to cheat/hack will be swiftly rewarded with a permaban. This includes exploiting bugs on the server that obviously shouldn't be there. Please report these issues to a Mod immediately.</li>
                 <li>There is absolutely NO GRIEFING in Sigby.</li>
-                <li>Khutu is unprotected and free-for-all. Protect yourself and your things at all times.</li>
+                <li>Scippe is unprotected and free-for-all. Protect yourself and your things at all times.</li>
                 <li>Use common sense and be respectful. We are all here to have fun, and the Mods are here to help make the server a good place for everyone.</li>
             </ol>
             </br>
             <h2>Server Policy</h2>
             <h3>Ranks and Promotion</h3>
             <ol>
-                <li>[ASP] - Aspirant - This is the default rank. Players may only access Khutu.</li>
-                <li>[SUR] - Survivalist - After two hours playtime an Aspirant is promoted to Survivalist. They can now access Crafterville and claim plots there with protection. They may build on someone else's plot in Sigby if the owner permits it.</li>
-                <li>[CRA] - Crafter - Crafters are players who have purchased large plots in game with Loyalty Points. Lords may rent parts of their land to Gendry's for whatever price they see fit(with in-game items like diamonds, iron, gold, etc.). Lords are the keepers of the protected areas and handle disputes within their plots.</li>
-                <li>(Various titles) - VIP - This is our VIP rank. We honor our best friends and special guests with this rank.</li>
-                <li>[JOF] - Junior Officer - Junior Officers will be added in the near future</li>
-                <li>[Officer] - Senior Officer - Listen to these people or you will get rekt.
-                <li>YouTubers & Streamers - If you make Minecraft videos or stream online while on our server we would love to give you special recognition! Please send us a link to your pages either in game or email to ash@foreverafk.net and we can work out special ranks.</li>
+                <li>The server is running an auto-promotion system based off of On-time. You will be promoted automatically after a set amount of time.</li>
+                <li>Streamers/YouTubers may be given special ranks, just ask a mod!</li>
+                <li>We are not currently looking for Mods, but a new system will be implemented soon.</li>
             </ol>
             </br>
             <h3>Getting Help</h3>

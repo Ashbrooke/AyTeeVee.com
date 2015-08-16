@@ -53,6 +53,7 @@ Description:    ForeverAFK brief about
        
         <article id="mainArticle">
 
+        <h1>This page is in desperate need of being updated. Some of these commands may or may not work.</h1>
         <h1>Commands</h1>
         This page lists the available commands in the server. The parameters are as follows:
         <ol>
